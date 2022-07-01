@@ -1,0 +1,48 @@
+{
+    "familia": [{
+        "nombre": "Belkys",
+        "edad": 38,
+        "diaDeNacimiento": "05",
+        "mesDeNacimiento": "07",
+        "añoDeNacimiento": "19...",
+        "rolFamiliar": "Madre",
+        "estadoCivil": "Felizmente casadita con su señor esposo.",
+        "descripcion": "La señora Mamá, muy organizada, cuidadosa y que esta muy pendiente de sus hijos, sin duda una persona digna de admirar."
+    }
+
+    ,{
+        "nombre": "Johny",
+        "edad": 42,
+        "diaDeNacimiento": "19",
+        "mesDeNacimiento": "11",
+        "añoDeNacimiento": "19...",
+        "rolFamiliar": "Padre",
+        "estadoCivil": "Felizmente casadito con su señora esposa.",
+        "descripcion": "El señor Papá, una persona muy alegre y divertida, siempre esta dando lo mejor de él para seguir adelante, una persona que merece respeto."
+    }
+
+    ,{
+        "nombre": "Juan",
+        "edad": 17,
+        "diaDeNacimiento": "30",
+        "mesDeNacimiento": "13",
+        "añoDeNacimiento": "2004",
+        "rolFamiliar": "Hijo mayor",
+        "estadoCivil": "Feliz mente soltero y sufriendo por el Junior jks",
+        "descripcion": "Un washo de 17 años, le gusta jugar videojuegos, futbol y salir con sus amigos, pero lo que mas le encanta es sufrir por el Junior."
+    }
+
+    ,{
+        "nombre": "Rechell",
+        "edad": 12,
+        "diaDeNacimiento": "01",
+        "mesDeNacimiento": "02",
+        "añoDeNacimiento": "2010",
+        "rolFamiliar": "Hija menor",
+        "estadoCivil": "En una relacion toxica con las matematicas.",
+        "descripcion": "La princesa de la casa, suele ser un poco fastidiosa por ratos pero cuando se queda quietesita es porque algo tiene jks."
+    }
+
+]
+
+}
